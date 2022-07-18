@@ -12,6 +12,8 @@
 
 - Create a cleaner UI
 
+- Complete the full CRUD RESTful API
+
 - Host the app on a cloud platform like AWS or Heroku
 
 
